@@ -1,1 +1,3 @@
-### r1nn-dev-lab
+### r1nn-dev-lab 👋
+
+[![Notion]()]
