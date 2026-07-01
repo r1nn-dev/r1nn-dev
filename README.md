@@ -1,15 +1,15 @@
 ### r1nn-dev-lab 👋
 
-RAG · Agent · MCP 기반 LLM 서비스 백엔드 개발자 
+RAG·Agent·MCP 기반 LLM 서비스를 만드는 AI 백엔드 엔지니어
 
 <p>
   <a href="노션_URL">
     <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
   <a href="티스토리_URL">
     <img src="https://img.shields.io/badge/TISTORY-E5511E?style=for-the-badge&logo=tistory&logoColor=white"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="깃허브블로그_URL">
     <img src="https://img.shields.io/badge/GITHUB%20BLOG-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   -->
@@ -39,6 +39,5 @@ RAG · Agent · MCP 기반 LLM 서비스 백엔드 개발자
 <img src="https://img.shields.io/badge/Chroma-1f2328?style=flat">  
 <img src="https://img.shields.io/badge/Docker-1f2328?style=flat&logo=docker&logoColor=white&logoSize=auto">&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Actions-1f2328?style=flat&logo=githubactions&logoColor=white&logoSize=auto">  
-
 
 ---
