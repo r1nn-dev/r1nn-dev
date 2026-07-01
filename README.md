@@ -1,4 +1,3 @@
----
 ### r1nn-dev-lab 👋
 
 RAG · Agent · MCP 기반 LLM 서비스 백엔드 개발자 
